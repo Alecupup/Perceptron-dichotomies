@@ -1,6 +1,8 @@
 # Perceptron-dichotomies
 导入sklearn中的数据库中的鸢尾花学习样本训练感知器
 
+随机梯度下降进行训练
+
 给出最终的权重和损失列表
 
 ![image](https://user-images.githubusercontent.com/68764044/170644475-aa872675-94e6-4c66-92ba-41ca29720ffa.png)
